@@ -1,2 +1,2 @@
-# perceptron
-This repository is about Perceptron 
+# Perceptron
+This repository is about Perceptron, a course I took while pursuing the African Master’s in Machine Intelligence (AMMI) at the African Institute for Mathematical Sciences (AIMS) Senegal.
